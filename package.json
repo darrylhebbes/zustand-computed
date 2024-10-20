@@ -18,7 +18,7 @@
     "typescript": "^5.5.4",
     "vite": "^5.4.2",
     "vite-plugin-dts": "^4.0.3",
-    "zustand": "^5.0.0"
+    "zustand": "^4.3.8"
   },
   "peerDependencies": {
     "react": "^18.2.0",
